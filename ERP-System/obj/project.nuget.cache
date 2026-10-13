@@ -1,24 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "b10FC2txiLk=",
+  "dgSpecHash": "RsBdHvgXcAw=",
   "success": true,
   "projectFilePath": "C:\\Users\\johan\\Documents\\GitHub\\First-FullStack-Project\\ERP-System\\ERP-System.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\johan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.4\\microsoft.aspnetcore.openapi.10.0.4.nupkg.sha512",
-    "C:\\Users\\johan\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+    "C:\\Users\\johan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "C:\\Users\\johan\\.nuget\\packages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1903",
-      "level": "Warning",
-      "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
-      "projectPath": "C:\\Users\\johan\\Documents\\GitHub\\First-FullStack-Project\\ERP-System\\ERP-System.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\Users\\johan\\Documents\\GitHub\\First-FullStack-Project\\ERP-System\\ERP-System.csproj",
-      "libraryId": "Microsoft.OpenApi",
-      "targetGraphs": [
-        "net10.0"
-      ]
-    }
-  ]
+  "logs": []
 }
