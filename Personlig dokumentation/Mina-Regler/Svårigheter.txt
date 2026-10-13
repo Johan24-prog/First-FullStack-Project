@@ -1,0 +1,33 @@
+STUDIEREGLER
+=============
+
+1. REPETERA — 5 min
+-------------------
+FRÅGA / UPPGIFT:
+Vad lärde du dig senast? Försök återberätta det utan att titta på anteckningarna.
+
+MITT SVAR:
+
+
+2. BYGG ELLER EXPERIMENTERA — 15 min
+------------------------------------
+FRÅGA / UPPGIFT:
+Skriv kod, testa ett nytt begrepp eller bygg en liten funktion.
+
+MITT SVAR:
+
+
+3. UNDERSÖK OCH FELSÖK — 15 min
+-------------------------------
+FRÅGA / UPPGIFT:
+Förutsäg vad som händer, testa och ta reda på varför något blev annorlunda.
+
+MITT SVAR:
+
+
+4. FÖRKLARA OCH DOKUMENTERA — 10 min
+------------------------------------
+FRÅGA / UPPGIFT:
+Beskriv vad du lärt dig och skriv ner en sak som du kan testa igen nästa gång.
+
+MITT SVAR:
