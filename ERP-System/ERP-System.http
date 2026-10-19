@@ -1,6 +1,0 @@
-@URL = http://localhost:5191
-
-GET {{URL}}/products
-###
-
-GET {{URL}}/products/{id}
