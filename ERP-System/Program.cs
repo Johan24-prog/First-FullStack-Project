@@ -34,4 +34,11 @@ app.MapGet("/products/{id}", (int id) =>
     return Results.Ok();
 });
 
+app.MapPost("/products", (Products product) =>
+{
+    products.Add(product);
+
+    return Results.Created($"/products/{product.Id}", product);
+});
+
 app.Run();
